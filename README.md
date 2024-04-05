@@ -1,0 +1,1 @@
+This is repository contains code and a pdf for our project, automatic plant watering system. Here, a system using harware componets such as arduino uno board, soil moisture sensor, water pump, etc is developed. Refer the `Automatic Plant Watering System.pdf` for more information.
